@@ -1,0 +1,40 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: #676858;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.box1 {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	background-color: #02b3e4;
+    padding: 30px;
+}
+.box2 {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	background-color: #2d3c49;
+    padding: 30px;
+}
+.box3 {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	background-color: #7d97ad;
+    padding: 30px;
+}
