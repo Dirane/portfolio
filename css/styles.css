@@ -5,13 +5,13 @@ body {
 }
 
 .text-muted {
-    color: #bcbbbb;
+    color: #bdbbbb;
 }
 .text-thin {
     font-weight: 100;
 }
 
-.title-super {
+.title-big {
     font-size: 60px;
 }
 
